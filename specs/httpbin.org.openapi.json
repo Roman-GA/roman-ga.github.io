@@ -1,7 +1,7 @@
 {
     "openapi" : "3.0.1",
     "info" : {
-      "title" : "dev-Api-Gateway",
+      "title" : "Conejillo Api Gatewat",
       "description" : "Api Gateway for the dev Environment",
       "version" : "1.0"
     },
